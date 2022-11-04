@@ -56,9 +56,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
 </div>
 
----
+<!-- ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chiefkufre)](https://git.io/streak-stats)
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefkufre&hide=contribs,prs)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefkufre&hide=contribs,prs) -->
 <!-- Body ENds -->
